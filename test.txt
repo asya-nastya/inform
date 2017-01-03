@@ -1,0 +1,12 @@
+#open cmd
+#change directory
+cd C:\Users\HP\Desktop\??????\gitHub\inform
+
+#to check files changes
+git status
+
+#add file to repo
+git add filenameXXX
+
+#commiting file
+git commit
