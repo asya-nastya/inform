@@ -5,7 +5,7 @@
 using namespace std; 
 
 int main () {
-	int a = 5;
+	int a = 10;
 	int shiftA = a << 1;
 	cout << shiftA;
 	
